@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SatSnap", "SatSnap\SatSnap.csproj", "{ED55CB0A-EEFF-4A4B-A03B-E1C0ABD9DBFC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SatSnap.Console", "SatSnap.Console\SatSnap.Console.csproj", "{ED55CB0A-EEFF-4A4B-A03B-E1C0ABD9DBFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
